@@ -1,7 +1,9 @@
 
-streamlit
-openai
-chromadb
-PyGithub
-tiktoken
-python-dotenv
+streamlit==1.26.0
+openai==1.27.6
+chromadb==0.4.2
+PyGithub==1.77
+tiktoken==0.4.0
+python-dotenv==1.0.1
+pysqlite3-binary>=3.35.0
+
